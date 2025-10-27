@@ -109,7 +109,7 @@
     }
 
     // ensure consistent code copy/paste behavior across all browsers
-    // (see https://github.com/wcoder/highlightjs-line-numbers.js/issues/51)
+    // (see https://github.com/yauhenipakala/highlightjs-line-numbers.js/issues/51)
     document.addEventListener('copy', function(e) {
         // get current selection
         var selection = window.getSelection();
