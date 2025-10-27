@@ -6,12 +6,6 @@
 
 ## Install
 
-### Bower
-
-```
-bower install highlightjs-line-numbers.js
-```
-
 ### Npm
 
 ```
