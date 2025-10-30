@@ -1,11 +1,11 @@
 {
   "name": "highlightjs-line-numbers.js",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "description": "Highlight.js line numbers plugin.",
   "main": "src/highlightjs-line-numbers.js",
   "devDependencies": {
-    "gulp": "^5.0.0",
-    "gulp-rename": "^2.0.0",
+    "gulp": "^5.0.1",
+    "gulp-rename": "^2.1.0",
     "gulp-replace": "^1.1.4",
     "gulp-uglify": "^3.0.2"
   },
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wcoder/highlightjs-line-numbers.js.git"
+    "url": "https://github.com/yauhenipakala/highlightjs-line-numbers.js.git"
   },
   "author": "Yauheni Pakala <evgeniy.pakalo@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wcoder/highlightjs-line-numbers.js/issues"
+    "url": "https://github.com/yauhenipakala/highlightjs-line-numbers.js/issues"
   },
-  "homepage": "http://wcoder.github.io/highlightjs-line-numbers.js/"
+  "homepage": "https://ypakala.com/projects/highlightjs-line-numbers.js/"
 }

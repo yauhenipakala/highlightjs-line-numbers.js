@@ -2,15 +2,9 @@
 
 [Highlight.js](https://github.com/highlightjs/highlight.js) line numbers plugin.
 
-[DEMO](http://wcoder.github.io/highlightjs-line-numbers.js/) | [SСREENSHOTS](https://github.com/wcoder/highlightjs-line-numbers.js/issues/5)
+[DEMO](https://ypakala.com/projects/highlightjs-line-numbers.js/) | [SСREENSHOTS](https://github.com/yauhenipakala/highlightjs-line-numbers.js/issues/5)
 
 ## Install
-
-### Bower
-
-```
-bower install highlightjs-line-numbers.js
-```
 
 ### Npm
 
@@ -161,7 +155,7 @@ CSS selector                             |  description
 
 ## More plugins
 
-- [highlightjs-lang.js](https://github.com/wcoder/highlightjs-lang.js) — plugin to display language name with formatting;
+- [highlightjs-lang.js](https://github.com/highlightjs-plugins/highlightjs-lang.js) — plugin to display language name with formatting;
 
 ---
-&copy; 2024 Yauheni Pakala and [Community](https://github.com/wcoder/highlightjs-line-numbers.js/graphs/contributors) | MIT License
+&copy; 2025 Yauheni Pakala and [Community](https://github.com/yauhenipakala/highlightjs-line-numbers.js/graphs/contributors) | MIT License
